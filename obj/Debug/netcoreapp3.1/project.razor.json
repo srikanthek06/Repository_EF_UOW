@@ -1,0 +1,16 @@
+{
+  "FilePath": "d:\\ProjectPOC\\Repository_EF_UOW\\Repository_EF_UOW\\Repository_EF_UOW.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "3.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": null,
+  "RootNamespace": "Repository_EF_UOW",
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}

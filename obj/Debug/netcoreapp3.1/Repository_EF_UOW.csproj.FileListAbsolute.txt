@@ -1,0 +1,10 @@
+D:\ProjectPOC\Repository_EF_UOW\Repository_EF_UOW\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\ProjectPOC\Repository_EF_UOW\Repository_EF_UOW\bin\Debug\netcoreapp3.1\appsettings.json
+D:\ProjectPOC\Repository_EF_UOW\Repository_EF_UOW\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\ProjectPOC\Repository_EF_UOW\Repository_EF_UOW\bin\Debug\netcoreapp3.1\Repository_EF_UOW.exe
+D:\ProjectPOC\Repository_EF_UOW\Repository_EF_UOW\obj\Debug\netcoreapp3.1\Repository_EF_UOW.csprojAssemblyReference.cache
+D:\ProjectPOC\Repository_EF_UOW\Repository_EF_UOW\obj\Debug\netcoreapp3.1\staticwebassets\Repository_EF_UOW.StaticWebAssets.Manifest.cache
+D:\ProjectPOC\Repository_EF_UOW\Repository_EF_UOW\obj\Debug\netcoreapp3.1\staticwebassets\Repository_EF_UOW.StaticWebAssets.xml
+D:\ProjectPOC\Repository_EF_UOW\Repository_EF_UOW\obj\Debug\netcoreapp3.1\Repository_EF_UOW.AssemblyInfoInputs.cache
+D:\ProjectPOC\Repository_EF_UOW\Repository_EF_UOW\obj\Debug\netcoreapp3.1\Repository_EF_UOW.AssemblyInfo.cs
+D:\ProjectPOC\Repository_EF_UOW\Repository_EF_UOW\obj\Debug\netcoreapp3.1\Repository_EF_UOW.RazorTargetAssemblyInfo.cache
